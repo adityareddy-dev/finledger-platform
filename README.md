@@ -1,4 +1,4 @@
-# LedgerFlow — Fintech Operations Workspace
+# FinLedger Platform
 
 Trace every cent. Reconcile every movement.
 
@@ -18,7 +18,7 @@ All 20 resource types have documented schemas, deterministic fixtures, exact-mat
 Install Python 3.12 or newer. No third-party runtime packages are needed.
 
 ```bash
-cd ledgerflow-fintech
+cd finledger-platform
 python -B -m app
 ```
 
